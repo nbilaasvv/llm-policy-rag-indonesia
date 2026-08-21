@@ -1,4 +1,4 @@
-# Policy RAG — Modular LLM Pipeline for Policy Document Analysis
+# Policy RAG (Modular LLM Pipeline for Policy Document Analysis)
 
 A modular **Retrieval-Augmented Generation (RAG)** system for extracting, retrieving, querying, and analyzing policy documents using **Python, Google Gemini, and FAISS**.
 
